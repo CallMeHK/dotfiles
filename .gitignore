@@ -1,0 +1,31 @@
+/*
+
+# root directory files
+!.gitignore
+!.Xresources
+
+# gtk theming files
+!/.themes/
+/.themes/*
+!/.themes/serenade/
+
+# include .config folder so that we can include subfolders
+!/.config/
+/.config/*
+
+# include configs
+!/.config/bspwm/
+!/.config/sxhkd/
+!/.config/dunst/
+!/.config/gtk-3.0/
+!/.config/kitty/
+!/.config/picom/
+!/.config/polybar/
+!/.config/rofi/
+!/.config/wallpapers/
+!/.config/icons/
+/.config/icons/*
+!/.config/icons/Flatery-master.zip
+
+
+
