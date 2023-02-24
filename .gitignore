@@ -5,6 +5,7 @@
 !.Xresources
 
 # gtk theming files
+!/.fonts/
 !/.themes/
 /.themes/*
 !/.themes/serenade/
