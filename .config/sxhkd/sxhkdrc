@@ -28,7 +28,7 @@ super + shift + ctrl + l
 	bash ~/.config/sxhkd/lock.sh && systemctl suspend
 
 # hide
-super + h
+super + alt + h
   bspc node --flag hidden=on
 
 # unhide

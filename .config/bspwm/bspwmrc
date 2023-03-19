@@ -56,7 +56,14 @@ bspc rule -a zoom state=floating center=on follow=on border=off sticky=on rectan
 
 feh --bg-scale ~/.config/wallpapers/astronaut.jpg
 
+# set screen timeout to 1 hour
+xset s 3600 3600
 ~/.config/polybar/launch.sh &
 /usr/bin/dunst &
 /usr/bin/blueman-manager &
 /usr/bin/picom &
+
+
+# auto launch applications
+sleep 2
+~/.config/bspwm/autostart.sh &
