@@ -1,3 +1,4 @@
+#!/bin/sh
 cd ~/
 
 yay -S bspwm \

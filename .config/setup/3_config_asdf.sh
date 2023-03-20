@@ -1,3 +1,4 @@
+#!/bin/sh
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.11.3
 echo "if status is-interactive
     source ~/.asdf/asdf.fish

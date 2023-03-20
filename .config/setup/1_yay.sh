@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo pacman -Syy
 
 sudo pacman -S --needed base-devel git github-cli

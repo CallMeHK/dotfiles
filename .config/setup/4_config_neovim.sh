@@ -1,3 +1,4 @@
+#!/bin/sh
 mkdir ~/.config/nvim
 cd ~/.config/nvim
 git init

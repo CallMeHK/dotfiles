@@ -1,3 +1,4 @@
+#!/bin/sh
 yay -S google-chrome \
 	neovim \
 	kitty \
