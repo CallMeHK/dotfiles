@@ -35,6 +35,9 @@ super + alt + h
 super + shift + h
 	bash ~/.config/sxhkd/unhide.sh
 
+# logout
+ctrl + alt + d
+  bspc quit
 
 #
 # bspwm hotkeys
