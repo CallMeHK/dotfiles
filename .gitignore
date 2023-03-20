@@ -23,6 +23,7 @@
 !/.config/picom/
 !/.config/polybar/
 !/.config/rofi/
+!/.config/setup/
 !/.config/wallpapers/
 !/.config/icons/
 /.config/icons/*

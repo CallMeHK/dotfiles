@@ -1,2 +1,2 @@
 #!/bin/sh
-DIRECTION=right /home/tylerg/.asdf/shims/node ~/.config/sxhkd/desktop.js
+DIRECTION=right /home/hk/.asdf/shims/node ~/.config/sxhkd/desktop.js
